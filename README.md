@@ -10,13 +10,15 @@
 
 Стэк:
 * Bash
-* Vagrant + Ansible
+* Ansible 
 * Docker, Docker-compose
 * VirtualBox
 * OpenVPN
 * GitLab CI/CD, Jenkins
 * Zabbix, Prometheus
 * Terraform
+
+[Репозиторий с домашними работами](https://github.com/Firewal7/devops-netology)
 
 Постоянно изучаю и практикую инструменты для развития DevOps внутри учебных проектов.
 
