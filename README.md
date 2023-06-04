@@ -8,7 +8,7 @@
 
 * [Основы администрирования Linux](https://drive.google.com/file/d/1bU_QjFSRp5dktJBjOVSOg47xGSP4Z9d-/view) ([Сертификат](https://github.com/Firewal7/certificates/blob/main/Linux(%D0%9F%D0%93%D0%9D%D0%98%D0%A3).jpg))
 
-Стэк:
+Стек:
 * Bash
 * Ansible 
 * Docker, Docker-compose
