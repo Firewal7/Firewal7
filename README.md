@@ -8,6 +8,16 @@
 
 * [Основы администрирования Linux](https://drive.google.com/file/d/1bU_QjFSRp5dktJBjOVSOg47xGSP4Z9d-/view)
 
+Стэк:
+— Bash
+— Vagrant + Ansible
+— Docker, Docker-compose
+— VirtualBox
+— OpenVPN
+- GitLab CI/CD, Jenkins
+- Zabbix, Prometheus
+- Terraform
+
 Постоянно изучаю и практикую инструменты для развития DevOps внутри учебных проектов.
 
 Хочу взаимодействовать с опытными специалистами, готовыми делиться навыками для получения практического опыта. 
