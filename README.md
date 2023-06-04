@@ -6,8 +6,7 @@
   
  В 2022 году я прошел обучение в Пермском Сетевом университете по программе, реализуемой на базе Пермского государственного национально-исследовательского университета:
 
-* [Основы администрирования Linux](https://drive.google.com/file/d/1bU_QjFSRp5dktJBjOVSOg47xGSP4Z9d-/view)
-[Сертификат](https://img.hhcdn.ru/photo/725919277.jpeg?t=1685960066&h=gPXcx_ToxStc1GJg79EeWQ)
+* [Основы администрирования Linux](https://drive.google.com/file/d/1bU_QjFSRp5dktJBjOVSOg47xGSP4Z9d-/view) ([Сертификат](https://img.hhcdn.ru/photo/725919277.jpeg?t=1685960066&h=gPXcx_ToxStc1GJg79EeWQ))
 
 Стэк:
 * Bash
