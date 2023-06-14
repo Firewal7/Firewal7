@@ -14,7 +14,7 @@
 * Docker, Docker-compose
 * VirtualBox
 * Jenkins
-* Zabbix, Prometheus
+* Zabbix, Prometheus, Grafana, Loki
 * Terraform
 
 [Репозиторий с домашними работами](https://github.com/Firewal7/devops-netology)
