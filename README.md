@@ -16,6 +16,7 @@
 * Jenkins
 * Zabbix, Prometheus, Grafana, Loki
 * Terraform
+* PostgreSQL
 
 [Репозиторий с домашними работами](https://github.com/Firewal7/devops-netology)
 
