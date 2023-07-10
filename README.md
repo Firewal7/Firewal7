@@ -18,7 +18,7 @@
 * Terraform
 * PostgreSQL
 
-[Репозиторий с домашними работами](https://github.com/Firewal7/devops-netology)
+[Репозиторий с учебными задачами](https://github.com/Firewal7/devops-netology)
 
 [Учебный проект (Работа над проектом по развертыванию ноды для добычи криптовалюты в тестовой сети)](https://github.com/Firewal7/crypto-project)
 
