@@ -17,6 +17,8 @@
 * Zabbix, Prometheus, Grafana, Loki
 * Terraform
 * PostgreSQL
+* Kubernetes
+* CI/CD
 
 [Репозиторий с учебными задачами](https://github.com/Firewal7/devops-netology)
 
