@@ -23,7 +23,8 @@
 [Репозиторий с учебными задачами](https://github.com/Firewal7/devops-netology)
 
 [Учебный проект (Работа над проектом по развертыванию ноды для добычи криптовалюты в тестовой сети)](https://github.com/Firewal7/crypto-project)
-[Учебный проект (Проект по созданию сервиса и его дальнейшему развертыванию в Kubernetes cluster.)]([https://github.com/Firewal7/crypto-project](https://github.com/Firewal7/application-project))
+
+[Учебный проект (Проект по созданию сервиса и его дальнейшему развертыванию в Kubernetes cluster.)](https://github.com/Firewal7/application-project)
 
 Постоянно изучаю и практикую инструменты для развития DevOps внутри учебных проектов.
 
