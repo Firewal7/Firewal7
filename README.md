@@ -9,7 +9,7 @@
 * Zabbix, Prometheus, Grafana, Loki
 * Terraform
 * PostgreSQL
-* Kubernetes
+* Kubernetes, Rancher
 * CI/CD
 
 SofinRa@yandex.ru
