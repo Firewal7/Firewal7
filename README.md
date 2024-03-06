@@ -5,7 +5,7 @@
 * Ansible, AWX
 * Docker, Docker-compose
 * VirtualBox
-* Jenkins
+* Jenkins, TeamCity
 * Zabbix, Prometheus, Grafana, Loki
 * Terraform
 * PostgreSQL
