@@ -2,7 +2,7 @@
 
 Стек:
 * Bash
-* Ansible 
+* Ansible, AWX
 * Docker, Docker-compose
 * VirtualBox
 * Jenkins
