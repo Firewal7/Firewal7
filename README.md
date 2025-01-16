@@ -4,11 +4,12 @@
 * Bash
 * Ansible, AWX
 * Docker, Docker-compose
-* VirtualBox
+* VirtualBox, Vagrant
 * Jenkins, TeamCity
-* Zabbix, Prometheus, Grafana, Loki
+* Zabbix, Prometheus, Grafana, Loki, OnCall
+* Yandex Cloud
 * Terraform
-* PostgreSQL
+* SQL, NoSQL
 * Kubernetes, Rancher
 * CI/CD
 
